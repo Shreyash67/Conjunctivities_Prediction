@@ -19,3 +19,9 @@ the model's prediction on an image of a dog, where the system identifies that th
 ![image](https://github.com/user-attachments/assets/e1d8dce0-2379-4355-81f4-5b0a435d69d9)
 #### Model Classification For Healthy and Infected Eye :
 the model correctly predicting the condition of two eye images. After detecting the human eye in both images, the model correctly classifying the images as either healthy or infected, demonstrating its accuracy in classifying eye conditions.
+
+
+![image](https://github.com/user-attachments/assets/1e5fd8bf-ab58-4be7-96c1-87e674413831)
+#### Real-Time Conjunctivitis Scan via Webcam :
+The model correctly detected the human eye and confidently classified it as healthy, proving its accuracy in real-time conjunctivitis detection via webcam.
+
