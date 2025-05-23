@@ -1,5 +1,5 @@
 # Conjunctivities Prediction Using Deep Learning
-👁️ Conjunctivitis Types (Pink Eye)
+### 👁️ Conjunctivitis Types (Pink Eye)
 Conjunctivitis is an eye condition with three main types:
 
 Allergic: Triggered by pollen/dust; causes watery discharge, swelling, and intense itching.
